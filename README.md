@@ -3,19 +3,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveky259259&label=Views&color=blue&style=plastic" alt="viveky259259" /> </p>
 
 <a href="https://twitter.com/viveky259259">
-  <img align="left" alt="Vivek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Vivek's Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/viveky259">
-  <img align="left" alt="Vivek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Vivek's Linkdein" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://viveky259259.medium.com/">
+  <img align="left" alt="Vivek's Medium"  src="https://img.shields.io/badge/Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 <a href="https://github.com/viveky259259">
-  <img align="left" alt="Vivek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Vivek's Github" width ="100px" src="https://cdn.cdnlogo.com/logos/g/31/github.svg" />
 </a>
 <a href="https://instagram.com/viveky259/">
-  <img align="left" alt="Vivek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Vivek's Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/procoaches/">
-  <img align="left" alt="PROCoach's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="PROCoach's Youtube" width="100px" src="https://cdn.cdnlogo.com/logos/y/92/youtube.svg" />
 </a>
 
 <br/>
@@ -44,12 +47,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
+###### *Here are my stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img><div align="center">*
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viveky259259&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
+</div>
+  
 <a href="https://github.com/viveky259259">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveky259259&theme=light&hide_langs_below=1" />
 </a>
+  <br/>
 <a href="https://github.com/viveky259259">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viveky259259&show_icons=true&theme=light&line_height=27" alt="Vivek's github stats"/>
 </a>
+<br/>
 <a href="https://github.com/viveky259259/flutter_for_people">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=viveky259259&repo=flutter_for_people&theme=light" />
 

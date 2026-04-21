@@ -1,4 +1,38 @@
-## Hey, I'm [Vivek Yadav!](https://stringsway.com) 👋
+# Hey, I'm Vivek Yadav 👋
+
+### 🚀 Building the future of developer workflows
+
+I’m a developer focused on **AI-native development tools, systems, and developer experience**.
+
+Currently building **Ocean** — an AI-powered development environment that rethinks how engineers interact with code, tools, and agents.
+
+---
+
+### 🧠 What I work on
+
+* 🤖 AI-assisted developer workflows
+* 🧩 Agent-based systems & tooling
+* 🖥️ Developer platforms & infrastructure
+* ⚡ Performance-driven desktop apps (Rust, Tauri)
+
+---
+
+### 🏗️ Current Focus
+
+* Building **Ocean AI Platform**
+* Designing **agent-first developer UX**
+* Exploring **multi-agent orchestration + local models**
+* Scaling systems from **solo dev → team workflows**
+
+---
+
+### 💬 Ask me about
+
+* Flutter (still close to heart ❤️)
+* AI tooling & developer infra
+* Building products from 0 → 1
+* Systems design for dev tools
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveky259259&label=Views&color=blue&style=plastic" alt="viveky259259" /> </p>
 
@@ -25,12 +59,14 @@
 <br/>
 
 
-
-- 🔭 I’m currently working at [ZestMoney](https://www.zestmoney.in/).
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/procoaches).
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @viveky259259](https://twitter.com/viveky259259) , [Youtube - @PROCoach](https://youtube.com/procoaches)
 - 😄 Pronouns: He/His
+
+## ⚡ Fun fact
+
+### I think the next big shift isn’t just AI writing code — it’s developers orchestrating intelligence.
 
 [![Twitter: viveky259259](https://img.shields.io/twitter/follow/viveky259259?style=social)](https://twitter.com/viveky259259)
 [![Linkedin: Vivek Yadav](https://img.shields.io/badge/-viveky259259-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viveky259259/)](https://www.linkedin.com/in/viveky259/)
@@ -46,6 +82,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+###Infra & Tools: Firebase, Tauri, AI SDKs
 
 ###### *Here are my stats <img src="https://media2.giphy.com/media/TjdjGJc9ti9RIFk0IJ/200w.webp?cid=ecf05e47helmh11la4n0y3pvhuqr8mcovp86sh61nt5rgo87&rid=200w.webp" height="30"></img><div align="center">*
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viveky259259&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
@@ -64,7 +101,9 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+## ❤️ Open Source
+
+### If something here helps you, consider starring ⭐ a repo — it goes a long way!
 
 </div>
 
